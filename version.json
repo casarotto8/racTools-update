@@ -1,6 +1,6 @@
 {
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/download/v1.0.100/Instalador_racTools.exe",
-  "version": "1.0.100",
-  "changelog": "Nova versão 1.0.100 lançada automaticamente com proteção de código.",
+  "version": "1.0.101",
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/download/v1.0.101/Instalador_racTools.exe",
+  "changelog": "Nova versão 1.0.101 lançada automaticamente com proteção de código.",
   "mandatory": false
 }
