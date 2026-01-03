@@ -1,6 +1,6 @@
 {
-  "mandatory": false,
+  "version": "1.0.135",
+  "changelog": "Nova versão 1.0.135 lançada automaticamente.",
   "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.exe",
-  "changelog": "Nova versão 1.0.123 lançada automaticamente.",
-  "version": "1.0.123"
+  "mandatory": false
 }
