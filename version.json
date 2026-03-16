@@ -1,6 +1,6 @@
 {
   "mandatory": false,
-  "version": "2.0.1",
-  "changelog": "Suporte oficial ao Revit 2026! Versão Final 2.0.0 (Unified Build). Melhorias no AutoTag e AutoDim.",
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip"
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
+  "version": "2.0.2",
+  "changelog": "Correção crítica no mecanismo de atualização. Suporte oficial ao Revit 2026!"
 }
