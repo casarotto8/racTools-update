@@ -1,6 +1,6 @@
 {
-  "mandatory": false,
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
   "changelog": "Correção crítica no mecanismo de atualização. Suporte oficial ao Revit 2026!",
-  "version": "2.0.5",
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip"
+  "version": "2.0.6",
+  "mandatory": false
 }
