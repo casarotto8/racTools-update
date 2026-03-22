@@ -1,6 +1,6 @@
 {
-  "version": "2.0.9",
+  "changelog": "Confira as novidades da versão v2.1.0 no GitHub!",
   "mandatory": false,
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
-  "changelog": "* Fix AutoTag location mapping\n* Improve AutoConnect MST efficiency\n* Revit 2026 support refinement"
+  "version": "2.1.0",
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip"
 }
