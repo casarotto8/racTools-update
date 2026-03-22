@@ -1,6 +1,6 @@
 {
+  "changelog": "racTools  Correção no tamanho dos ícones da Ribbon, novos botões de ajuda e melhorias na aba de Atualização.",
   "mandatory": false,
-  "changelog": "Confira as novidades da versão v2.1.1 no GitHub!",
   "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
-  "version": "2.1.1"
+  "version": "2.1.2"
 }
