@@ -1,6 +1,6 @@
 {
-  "mandatory": false,
   "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
-  "version": "2.1.3",
-  "changelog": "racTools  Correção no tamanho dos ícones da Ribbon, novos botões de ajuda e melhorias na aba de Atualização."
+  "mandatory": false,
+  "changelog": "racTools  Correção no tamanho dos ícones da Ribbon, novos botões de ajuda e melhorias na aba de Atualização.",
+  "version": "2.1.4"
 }
