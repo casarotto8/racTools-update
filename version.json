@@ -1,6 +1,6 @@
 {
-  "changelog": "racTools  Correção no tamanho dos ícones da Ribbon, novos botões de ajuda e melhorias na aba de Atualização.",
   "mandatory": false,
-  "version": "2.1.6",
+  "changelog": "racTools  Correção na orientação de tomadas (AutoDevice), fix de XAML/HotLoader e melhorias na extração de carga/disjuntor geral (AutoReport).",
+  "version": "2.2.0",
   "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip"
 }
