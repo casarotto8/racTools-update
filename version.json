@@ -1,6 +1,6 @@
 {
-  "mandatory": false,
+  "version": "2.1.7",
   "changelog": "racTools  Correção na orientação de tomadas (AutoDevice), fix de XAML/HotLoader e melhorias na extração de carga/disjuntor geral (AutoReport).",
-  "version": "2.2.0",
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip"
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
+  "mandatory": false
 }
