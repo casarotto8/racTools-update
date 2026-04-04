@@ -1,6 +1,6 @@
 {
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
-  "changelog": "racTools  Novo 'Smart IK' via conectores elétricos: o AutoTag agora analisa a conectividade MEP real para decidir se tagueia o pai ou os filhos, garantindo precisão total em famílias híbridas.",
+  "changelog": "racTools  Filtro de categorias: removidos Conexões de Eletroduto e Eletrocalha do AutoTag para evitar tags indesejadas em peças geométricas.",
+  "version": "2.2.28",
   "mandatory": false,
-  "version": "2.2.27"
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip"
 }
