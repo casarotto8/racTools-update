@@ -1,6 +1,6 @@
 {
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
   "mandatory": false,
-  "changelog": "racTools  Seleção múltipla no AutoTag: agora você pode selecionar vários elementos de uma vez (por janela ou clique) para taguear tudo em lote. Mantendo a lógica híbrida inteligente de pai/filho.",
-  "version": "2.2.25",
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip"
+  "version": "2.2.26",
+  "changelog": "racTools  Prioridade de tagueamento ajustada: agora o AutoTag prioriza taguear os sub-módulos se eles tiverem circuito, resolvendo o problema de ter que usar TAB em famílias complexas."
 }
