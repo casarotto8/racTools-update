@@ -1,6 +1,6 @@
 {
-  "mandatory": false,
-  "changelog": "racTools  Reduções de interrupções no AutoConnect (remoção de popup de log) e melhorias na experiência de usuário com feedback síncrono na barra de progresso.",
-  "version": "2.1.9",
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip"
+  "changelog": "racTools  AutoTag híbrido: tagueia a raiz se tiver circuito, ou mergulha nos subcomponentes se o circuito estiver neles. Suporte completo para famílias aninhadas e Ponto de Força.",
+  "version": "2.2.24",
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
+  "mandatory": false
 }
