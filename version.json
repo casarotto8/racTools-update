@@ -1,6 +1,6 @@
 {
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
-  "version": "2.3.0",
   "mandatory": false,
-  "changelog": "racTools v2.3.0 (Versão Oficial): AutoTag totalmente reformulado com lógica híbrida inteligente (Pai/Filho), seleção múltipla por janela/clique, identificação automática via conectores elétricos (Smart IK) e novos filtros de categorias para precisão total."
+  "version": "2.3.1",
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
+  "changelog": "racTools  Ajuste de posicionamento das tags: agora são criadas ao lado dos elementos elétricos com um offset lateral fixo, evitando sobreposição com os símbolos das famílias."
 }
