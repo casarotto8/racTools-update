@@ -1,6 +1,6 @@
 {
   "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
+  "changelog": "racTools  Novo 'Smart IK' via conectores elétricos: o AutoTag agora analisa a conectividade MEP real para decidir se tagueia o pai ou os filhos, garantindo precisão total em famílias híbridas.",
   "mandatory": false,
-  "version": "2.2.26",
-  "changelog": "racTools  Prioridade de tagueamento ajustada: agora o AutoTag prioriza taguear os sub-módulos se eles tiverem circuito, resolvendo o problema de ter que usar TAB em famílias complexas."
+  "version": "2.2.27"
 }
