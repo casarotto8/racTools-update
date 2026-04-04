@@ -1,6 +1,6 @@
 {
-  "changelog": "racTools  AutoTag híbrido: tagueia a raiz se tiver circuito, ou mergulha nos subcomponentes se o circuito estiver neles. Suporte completo para famílias aninhadas e Ponto de Força.",
-  "version": "2.2.24",
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
-  "mandatory": false
+  "mandatory": false,
+  "changelog": "racTools  Seleção múltipla no AutoTag: agora você pode selecionar vários elementos de uma vez (por janela ou clique) para taguear tudo em lote. Mantendo a lógica híbrida inteligente de pai/filho.",
+  "version": "2.2.25",
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip"
 }
