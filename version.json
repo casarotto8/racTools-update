@@ -1,6 +1,6 @@
 {
   "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
-  "changelog": "racTools  Lógica de exclusão da raiz em famílias modulares: agora, se uma família tem módulos elétricos internos, a caixa (pai) é ignorada para evitar tags com '?' duplicadas.",
+  "version": "2.3.0",
   "mandatory": false,
-  "version": "2.2.29"
+  "changelog": "racTools v2.3.0 (Versão Oficial): AutoTag totalmente reformulado com lógica híbrida inteligente (Pai/Filho), seleção múltipla por janela/clique, identificação automática via conectores elétricos (Smart IK) e novos filtros de categorias para precisão total."
 }
