@@ -1,6 +1,6 @@
 {
-  "changelog": "racTools  Filtro de categorias: removidos Conexões de Eletroduto e Eletrocalha do AutoTag para evitar tags indesejadas em peças geométricas.",
-  "version": "2.2.28",
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
+  "changelog": "racTools  Lógica de exclusão da raiz em famílias modulares: agora, se uma família tem módulos elétricos internos, a caixa (pai) é ignorada para evitar tags com '?' duplicadas.",
   "mandatory": false,
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip"
+  "version": "2.2.29"
 }
