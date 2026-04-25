@@ -1,6 +1,6 @@
 {
-  "changelog": "racTools  Ajuste de posicionamento das tags: agora são criadas ao lado dos elementos elétricos com um offset lateral fixo, evitando sobreposição com os símbolos das famílias.",
-  "mandatory": false,
+  "version": "2.3.9",
   "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
-  "version": "2.3.8"
+  "mandatory": false,
+  "changelog": "racTools  Ajuste de posicionamento das tags: agora são criadas ao lado dos elementos elétricos com um offset lateral fixo, evitando sobreposição com os símbolos das famílias."
 }
