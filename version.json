@@ -1,6 +1,6 @@
 {
   "mandatory": false,
-  "version": "2.4.3",
-  "changelog": "racTools  Suporte a Tubulações (Pipes) adicionado ao AutoClash. Nova estilização personalizada para ScrollBars em toda a suite. Simplificação da validação de licença para maior estabilidade.",
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip"
+  "changelog": "racTools  Redesign completo do diálogo de ativação com melhor legibilidade e nova estética. Botões de controle (Minimizar/Fechar) redesenhados com gráficos vetoriais de alta precisão. Refinamento no fluxo de licenciamento com limpeza automática de cache.",
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
+  "version": "2.4.4"
 }
