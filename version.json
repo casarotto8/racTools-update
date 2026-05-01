@@ -1,6 +1,6 @@
 {
-  "version": "2.4.2",
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
   "mandatory": false,
-  "changelog": "racTools  Grandes melhorias no AutoReport (redimensionamento automático e centralização de imagens no Word, suporte a múltiplas tags e novos logs). Atualizações de lógica no AutoClash (bypass e conectividade) e ajustes de interface no AutoConduit."
+  "version": "2.4.3",
+  "changelog": "racTools  Suporte a Tubulações (Pipes) adicionado ao AutoClash. Nova estilização personalizada para ScrollBars em toda a suite. Simplificação da validação de licença para maior estabilidade.",
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip"
 }
