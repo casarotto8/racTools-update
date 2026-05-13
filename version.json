@@ -1,6 +1,6 @@
 {
   "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
-  "version": "2.4.8",
-  "changelog": "racTools  Importantes melhorias no motor do AutoReport com filtragem inteligente de painéis e suporte a tópicos. Nova interface de configurações para o AutoConduit. Telemetria e diagnóstico aprimorados para maior estabilidade.",
-  "mandatory": false
+  "changelog": "# racTools v2.4.9\r\n\r\n## AutoDim\r\n\r\n- Refeito o motor de cotas automaticas para dispositivos eletricos com agrupamento em matriz por linhas e colunas.\r\n- Criacao de multicotas mais limpas, mantendo dispositivos alinhados na mesma cadeia sempre que possivel.\r\n- Cotas entre parede e parede foram bloqueadas, incluindo medicoes de espessura de parede.\r\n- Cotas invalidas como `0.00` e `0.08` passam a ser descartadas automaticamente.\r\n- Cotas de dispositivo para parede foram corrigidas, inclusive para tomadas isoladas e tomadas proximas a paredes.\r\n- A multicota agora para ao encontrar uma parede intermediaria e inicia uma nova cadeia depois dela.\r\n- O AutoDim tenta primeiro usar referencias reais da familia para manter cotas associativas quando o dispositivo for movido.\r\n- Quando a referencia da familia falha, o AutoDim usa proxy auxiliar invisivel como fallback para preservar a geracao da cota.\r\n- Linhas auxiliares/proxies sao marcadas e mantidas vivas apenas quando necessarias para sustentar a referencia da cota.\r\n- Tratamento de falhas do Revit foi ajustado para evitar modais de referencia invalida durante a criacao das cotas.\r\n\r\n## Atualizacao\r\n\r\n- Release preparada para publicar este texto como body da release e como changelog do `version.json`, permitindo que o site e o updater exibam as alteracoes da versao.",
+  "mandatory": false,
+  "version": "2.4.9"
 }
