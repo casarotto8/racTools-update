@@ -1,6 +1,6 @@
 {
-  "mandatory": false,
-  "changelog": "# racTools v2.5.8\r\n\r\n## 🔌 Melhorias no AutoSwitch — Clique Rápido e Sem Popups\r\n\r\n- **Desativação de Popups de Falha**: Removemos as caixas de diálogo (`TaskDialog`) de erro que apareciam quando a automação de vínculo nativo falhava ou era cancelada sem persistência de dados. A partir de agora, falhas de sincronização nativa são registradas silenciosamente nos arquivos de diagnóstico (`LogDiagnostic`), sem interromper ou bloquear o fluxo de trabalho do usuário.\r\n- **Retorno ao Clique Físico Rápido**: O mecanismo de seleção no viewport do Revit foi restaurado para utilizar o cursor físico (`SetCursorPos` + `mouse_event`), pois o Revit exige a presença real do ponteiro do mouse para executar testes de colisão e seleção na tela 3D/2D. O algoritmo de clique foi otimizado para durar aproximadamente 60ms e restaurar o cursor à sua posição original quase instantaneamente.",
+  "changelog": "# racTools v2.5.9\r\n\r\n## 🔌 Melhorias no AutoSwitch — Velocidade e Otimização do Cursor\r\n\r\n- **Redução Drástica do Atraso no Clique (Movimento Invisível)**: Otimizamos o atraso interno no clique físico necessário para a seleção do interruptor de `20ms` para `5ms` por chamada. A operação inteira de mover, clicar e retornar o mouse agora leva menos de **15 milissegundos** no total (menos de um frame de renderização a 60Hz), tornando o movimento do cursor completamente invisível ao olho humano.\r\n- **Desativação Permanente de Popups**: Mantemos a supressão de popups de interrupção em caso de erros ou cancelamentos na sincronização nativa, registrando todas as ocorrências de forma assíncrona e silenciosa nos arquivos de log locais.",
+  "version": "2.5.9",
   "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/latest/download/racTools_Setup.zip",
-  "version": "2.5.8"
+  "mandatory": false
 }
