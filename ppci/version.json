@@ -1,7 +1,7 @@
 {
-  "version": "0.1.4",
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/download/ppci-v0.1.4/racTools_PPCI_Setup.zip",
+  "version": "0.1.5",
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/download/ppci-v0.1.5/racTools_PPCI_Setup.zip",
   "fixedUrl": "https://github.com/casarotto8/racTools-update/releases/download/ppci-latest/racTools_PPCI_Setup.exe",
   "mandatory": false,
-  "changelog": "# racTools PPCI 0.1.4\r\n\r\n- Atualização automática, como no racTools elétrico: com versão nova, o PPCI avisa ao abrir o Revit e instala quando você fechar o Revit (ou já, se preferir).\r\n- Configurações → \"Verificar atualizações\" e link fixo do instalador mais recente.\r\n- Instalador e plugin assinados com o certificado da RAC Engenharia Elétrica.\r\n\r\nCompatível com Autodesk Revit 2023, 2024, 2025, 2026 e 2027."
+  "changelog": "# racTools PPCI 0.1.5\r\n\r\n- Rede de sprinklers: o cálculo passou a convergir em redes com niples curtos nos bicos. Antes, em alguns modelos, a pressão na alimentação e a bomba saíam maiores que o necessário.\r\n- O cálculo avisa quando não consegue deixar o bico mais desfavorável exatamente na pressão mínima, em vez de mostrar um resultado errado.\r\n- Novo campo \"Fator K do bico\" (NBR 16981, ESFR e CCAE): lista os K que a tabela da norma permite para a classe, o arranjo e as alturas escolhidos.\r\n- Bicos de K grande (ESFR) ligados por niple de 1/2\" passam a ser dimensionados com niple DN 25.\r\n- Aviso em vermelho quando a sucção da bomba passa da velocidade máxima, com a altura manométrica sem essa perda.\r\n- Janelas e botões no padrão visual do racTools: confirmações sem janelas do Windows, texto dos botões sem corte e espaço uniforme entre eles.\r\n\r\nCompatível com Autodesk Revit 2023, 2024, 2025, 2026 e 2027."
 }
