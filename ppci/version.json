@@ -1,7 +1,7 @@
 {
-  "version": "0.1.8",
-  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/download/ppci-v0.1.8/racTools_PPCI_Setup.zip",
+  "version": "0.1.9",
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/download/ppci-v0.1.9/racTools_PPCI_Setup.zip",
   "fixedUrl": "https://github.com/casarotto8/racTools-update/releases/download/ppci-latest/racTools_PPCI_Setup.exe",
   "mandatory": false,
-  "changelog": "# racTools PPCI 0.1.8\r\n\r\n- Fator K do bico: com ESFR ou CCAE, a lista de K fica sempre disponível para escolha, inclusive antes de informar as alturas e em computadores sem as tabelas da NBR 16981. Sem as tabelas, pressão mínima, número de bicos, hidrantes e duração são digitados.\r\n- Alimentação da rede: o cálculo avisa quando a bomba escolhida antes não está mais no modelo, não está ligada aos bicos ou é a jóquei, e informa qual alimentação foi usada.\r\n- Bomba: quando a sucção do modelo passa da velocidade máxima, a bomba é dimensionada pela demanda da rede com a sucção ampliada. A tela indica os diâmetros a ampliar e trata altura e motor como premissa até a sucção ser corrigida no modelo.\r\n- Resumo do cálculo mais curto, com os detalhes nas abas Bomba e Avisos.\r\n- Hidráulica: vazão e pressão conferidas com um programa de cálculo hidráulico independente em quatro redes de referência, com diferença de até 0,07%.\r\n\r\nCompatível com Autodesk Revit 2023, 2024, 2025, 2026 e 2027."
+  "changelog": "# racTools PPCI 0.1.9\r\n\r\n- Hidrantes: diálogo mais simples, com cor única vermelha, menos campos e seção Avançado recolhida com valores padrão.\r\n- O cálculo ignora opções antigas; zero pode ser informado manualmente para a superfície do reservatório e a cota da bomba.\r\n- O botão \"Replicar Planta PPCI\" foi removido do ribbon.\r\n- Novos comandos no ribbon: iluminação de emergência, sinalização de emergência e rota de saída.\r\n\r\nCompatível com Autodesk Revit 2023, 2024, 2025, 2026 e 2027."
 }
