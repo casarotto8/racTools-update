@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.0",
-    "downloadUrl":  "https://github.com/casarotto8/racTools-update/releases/download/bypass-v0.1.0/racTools_byPass_Setup.zip",
-    "fixedUrl":  "https://github.com/casarotto8/racTools-update/releases/download/bypass-latest/racTools_byPass_Setup.exe",
-    "mandatory":  false,
-    "changelog":  "# racTools byPass 0.1.0\n\n- Instalador padronizado para Autodesk Revit 2023, 2024, 2025, 2026 e 2027 (multi-alvo `net48`, `net8.0-windows` e `net10.0-windows`).\n- HotLoader com 5 slots configuráveis na aba **byPass** e detecção automática de ícone do comando carregado.\n- Ícone oficial do racTools byPass embutido na DLL e identidade visual RAC no assistente de instalação."
+  "version": "0.1.0",
+  "downloadUrl": "https://github.com/casarotto8/racTools-update/releases/download/bypass-v0.1.0/racTools_byPass_Setup.zip",
+  "fixedUrl": "https://github.com/casarotto8/racTools-update/releases/download/bypass-latest/racTools_byPass_Setup.exe",
+  "mandatory": false,
+  "changelog": "# racTools byPass 0.1.0\r\n\r\n- Instalador padronizado para Autodesk Revit 2023, 2024, 2025, 2026 e 2027 (multi-alvo `net48`, `net8.0-windows` e `net10.0-windows`).\r\n- HotLoader com 5 slots configuráveis na aba **byPass** e detecção automática de ícone do comando carregado.\r\n- Ícone oficial do racTools byPass embutido na DLL e identidade visual RAC no assistente de instalação."
 }
